@@ -2,7 +2,7 @@
 ### Curso Explorer - Rocketseat - Stage 2 - Desafio
 #### Empresa de Turismo
 
-Layout: https://www.figma.com/file/dpTasx9ZCJQoLTE9XeJi6R/Projeto01-Extra-(Copy)?node-id=0-1&t=JLCcdopMJQyyiE0y-0
+Layout: https://www.figma.com/file/dpTasx9ZCJQoLTE9XeJi6R/Projeto01-Extra-(Copy)?node-id=0-1&t=JLCcdopMJQyyiE0y-0 (com adaptações)
 
 <div align="center">
 
