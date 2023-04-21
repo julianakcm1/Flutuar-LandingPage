@@ -10,7 +10,8 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a><br><br>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a><br><br>
 </p>
 
 <div align="center">
@@ -54,5 +55,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :memo: Layout
 
 Para a visualização do layout do projeto(com adaptações), basta clicar no [link](https://www.figma.com/file/dpTasx9ZCJQoLTE9XeJi6R/Projeto01-Extra-(Copy)?node-id=0-1&t=JLCcdopMJQyyiE0y-0).
+
+</div>
+
+<div id="-contato">
+
+## :envelope: Contato
+
+- E-mail: julianakcmelo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/julianakcmelo/
 
 </div>
