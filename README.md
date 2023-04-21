@@ -8,28 +8,14 @@
 </div>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a><br><br>
 </p>
 
 <div align="center">
 
 ![Flutuar](https://user-images.githubusercontent.com/54086293/233454228-ab251dc5-4d41-4d38-81f7-f731c3195931.jpg)
-
-</div>
-
-<div id="-tecnologias">
-  
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML  
-- CSS
-- Git
-- Github
-- Figma
 
 </div>
 
@@ -47,6 +33,20 @@ O projeto é uma landing page sobre empresa de turismo. O intuito é o fortaleci
 - Espaçamentos
 - Entre outros
   
+</div>
+
+<div id="-tecnologias">
+  
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML  
+- CSS
+- Git
+- Github
+- Figma
+
 </div>
 
 <div id="-layout">
